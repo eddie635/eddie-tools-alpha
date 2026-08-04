@@ -1,0 +1,11 @@
+{
+  "name": "eddie-tools-alpha",
+  "displayName": "Eddie Tools Alpha",
+  "version": "0.1.0",
+  "description": "Professional AI-powered Adobe InDesign 2026 plugin for album design.",
+  "author": {
+    "name": "Eddie Davidov"
+  },
+  "license": "MIT",
+  "private": true
+}
